@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Kevin Olayon 👋
 
 - Unity Game Developer
 - Learning Multiplayer and VR/AR
